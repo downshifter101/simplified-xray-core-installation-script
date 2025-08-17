@@ -8,7 +8,7 @@
 ## Installation process:
 
 ```sh
-wget -qO- https://github.com/downshifter101/simplified-xray-core-installation-script/blob/main/xray-install | bash
+wget -qO- https://raw.githubusercontent.com/downshifter101/simplified-xray-core-installation-script/refs/heads/main/xray-install | bash
 ```
 
 ## Usage
