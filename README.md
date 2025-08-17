@@ -1,8 +1,8 @@
 # Modification of simple-xray-core
-  -no ui panel
-  -no need for tsl-sertificate or domain
-  -with TCP BBR congestion control
-  -debian server version
+  -no ui panel  
+  -no need for tsl-sertificate or domain  
+  -with TCP BBR congestion control  
+  -debian server version  
 
 
 ## Installation process:
@@ -50,7 +50,7 @@ cat ~/help
 ```
 
 ## See also
-- [simple-xray-core] (https://github.com/ServerTechnologies/simple-xray-core)
+- [simple-xray-core](https://github.com/ServerTechnologies/simple-xray-core)
 - [X-ray Core](https://github.com/XTLS/Xray-core)
 - [Doc](https://xtls.github.io/ru/)
 
